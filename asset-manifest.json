@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7b763b48.css",
-    "main.js": "/react-gh-pages/static/js/main.036e64a8.js",
-    "static/js/488.20152e81.chunk.js": "/react-gh-pages/static/js/488.20152e81.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7b763b48.css.map": "/react-gh-pages/static/css/main.7b763b48.css.map",
-    "main.036e64a8.js.map": "/react-gh-pages/static/js/main.036e64a8.js.map",
-    "488.20152e81.chunk.js.map": "/react-gh-pages/static/js/488.20152e81.chunk.js.map"
+    "main.css": "/Tugas_Uas_Tekweb/static/css/main.7b763b48.css",
+    "main.js": "/Tugas_Uas_Tekweb/static/js/main.8c799efe.js",
+    "static/js/488.20152e81.chunk.js": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js",
+    "index.html": "/Tugas_Uas_Tekweb/index.html",
+    "main.7b763b48.css.map": "/Tugas_Uas_Tekweb/static/css/main.7b763b48.css.map",
+    "main.8c799efe.js.map": "/Tugas_Uas_Tekweb/static/js/main.8c799efe.js.map",
+    "488.20152e81.chunk.js.map": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b763b48.css",
-    "static/js/main.036e64a8.js"
+    "static/js/main.8c799efe.js"
   ]
 }
