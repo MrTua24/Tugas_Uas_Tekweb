@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/Tugas_Uas_Tekweb/static/css/main.7b763b48.css",
-    "main.js": "/Tugas_Uas_Tekweb/static/js/main.8c799efe.js",
+    "main.css": "/Tugas_Uas_Tekweb/static/css/main.cf868bc1.css",
+    "main.js": "/Tugas_Uas_Tekweb/static/js/main.74417f74.js",
     "static/js/488.20152e81.chunk.js": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js",
+    "static/media/Bg.jpg": "/Tugas_Uas_Tekweb/static/media/Bg.2c7c43b8639864a9cb31.jpg",
+    "static/media/Logo.png": "/Tugas_Uas_Tekweb/static/media/Logo.a9b977370a6db508bd6d.png",
+    "static/media/food33.jpg": "/Tugas_Uas_Tekweb/static/media/food33.9afef67c8d48a58ccb3d.jpg",
+    "static/media/food22.jpg": "/Tugas_Uas_Tekweb/static/media/food22.c50ca2d083aa9d2905be.jpg",
+    "static/media/bg1.jpg": "/Tugas_Uas_Tekweb/static/media/bg1.d1b05d26e31728b2e0c2.jpg",
+    "static/media/food11.jpg": "/Tugas_Uas_Tekweb/static/media/food11.73f513b5a5e4eb3cf22a.jpg",
     "index.html": "/Tugas_Uas_Tekweb/index.html",
-    "main.7b763b48.css.map": "/Tugas_Uas_Tekweb/static/css/main.7b763b48.css.map",
-    "main.8c799efe.js.map": "/Tugas_Uas_Tekweb/static/js/main.8c799efe.js.map",
+    "main.cf868bc1.css.map": "/Tugas_Uas_Tekweb/static/css/main.cf868bc1.css.map",
+    "main.74417f74.js.map": "/Tugas_Uas_Tekweb/static/js/main.74417f74.js.map",
     "488.20152e81.chunk.js.map": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b763b48.css",
-    "static/js/main.8c799efe.js"
+    "static/css/main.cf868bc1.css",
+    "static/js/main.74417f74.js"
   ]
 }
