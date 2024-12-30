@@ -1,15 +1,24 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 
 export const Navbar = () => {
   return (
-    <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-[#5DB996]'>
-      <h1 className='w-full text-3xl font-bold text-[#009990]'>Product Food</h1>
+    <div className='absolute top-0 left-0 w-full flex justify-between items-center h-24 px-4 text-[#0a0c0b] bg-opacity-80 z-10'>
+      <h1 className='w-full text-3xl font-bold text-[#170d10]'>Product Food</h1>
       <ul className='hidden md:flex'>
-        <li className='p-4'>HOME</li>
-        <li className='p-4'>ABOUT</li>
-        <li className='p-4'>PRODUCT</li>
-        <li className='p-4'>KONTAK</li>
+        <li className='p-4'>
+          <Link to='/'>Home</Link>
+        </li>
+        <li className='p-4'>
+          <Link to='/About'>About</Link>
+        </li>
+        <li className='p-4'>
+          <Link to='/Product'>Product</Link>
+        </li>
+        <li className='p-4'>
+          <Link to='/kontak'>Kontak</Link>
+        </li>
       </ul>
     </div>
   )
