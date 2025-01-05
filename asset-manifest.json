@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tugas_Uas_Tekweb/static/css/main.cf868bc1.css",
-    "main.js": "/Tugas_Uas_Tekweb/static/js/main.74417f74.js",
+    "main.css": "/Tugas_Uas_Tekweb/static/css/main.3398c2cd.css",
+    "main.js": "/Tugas_Uas_Tekweb/static/js/main.73a46814.js",
     "static/js/488.20152e81.chunk.js": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js",
     "static/media/Bg.jpg": "/Tugas_Uas_Tekweb/static/media/Bg.2c7c43b8639864a9cb31.jpg",
     "static/media/Logo.png": "/Tugas_Uas_Tekweb/static/media/Logo.a9b977370a6db508bd6d.png",
@@ -10,12 +10,12 @@
     "static/media/bg1.jpg": "/Tugas_Uas_Tekweb/static/media/bg1.d1b05d26e31728b2e0c2.jpg",
     "static/media/food11.jpg": "/Tugas_Uas_Tekweb/static/media/food11.73f513b5a5e4eb3cf22a.jpg",
     "index.html": "/Tugas_Uas_Tekweb/index.html",
-    "main.cf868bc1.css.map": "/Tugas_Uas_Tekweb/static/css/main.cf868bc1.css.map",
-    "main.74417f74.js.map": "/Tugas_Uas_Tekweb/static/js/main.74417f74.js.map",
+    "main.3398c2cd.css.map": "/Tugas_Uas_Tekweb/static/css/main.3398c2cd.css.map",
+    "main.73a46814.js.map": "/Tugas_Uas_Tekweb/static/js/main.73a46814.js.map",
     "488.20152e81.chunk.js.map": "/Tugas_Uas_Tekweb/static/js/488.20152e81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf868bc1.css",
-    "static/js/main.74417f74.js"
+    "static/css/main.3398c2cd.css",
+    "static/js/main.73a46814.js"
   ]
 }
