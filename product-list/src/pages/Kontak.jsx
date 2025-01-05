@@ -1,9 +1,10 @@
 import React from 'react'
+import Contact from '../components/Contact';
 
 const kontak = () => {
   return (
     <div>
-      <h1 className='text-center'>Halaman Kontak</h1>
+      <Contact/>
     </div>
   )
 }

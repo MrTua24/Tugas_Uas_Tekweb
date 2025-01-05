@@ -1,9 +1,10 @@
 import React from 'react';
+import Tentang from '../components/Tentang';
 
 const about = () => {
   return (
     <div>
-      <h1 className='text-center'>Halaman About</h1>
+     <Tentang/>
     </div>
   )
 }

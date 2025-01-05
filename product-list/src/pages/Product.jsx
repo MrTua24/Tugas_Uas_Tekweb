@@ -1,11 +1,12 @@
 import React from 'react'
+import Menu from '../components/Menu';
 
 const product = () => {
   return (
     <div>
-      <h1 className='text-center'>Halaman Produk</h1>
+      <Menu />
     </div>
   )
 }
 
-export default product
+export default product;
